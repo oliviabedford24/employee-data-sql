@@ -1,4 +1,4 @@
-# sql-challenge
+# employee-data-sql
 
 This is the Module 9 Challenge for Rice University's Data Visualization Bootcamp. In this challenge, we used SQL to model, engineer, and analyze data from the fictional company Pewlett Hackard. 
 
