@@ -6,6 +6,6 @@ The 'Resources' folder in this directory contains the Excel files containing the
 
 The code was written in pgAdmin. For best results, run the code in pgAdmin or other SQL-friendly software.
 
-The code contained in this directory is my work and mine alone. I received input and guidance from my instructors and the tutors employed by Rice University, but the code itself is my work.
+The code contained in this directory is my work and mine alone. 
 
 Thank you!
